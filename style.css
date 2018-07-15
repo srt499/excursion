@@ -1,0 +1,10 @@
+h1 {
+  font-family: verdana;
+  font-weight: normal;
+  color: white;
+  font-size: 50px;
+}
+html {
+  background-color: black;
+  text-align: center;
+}
